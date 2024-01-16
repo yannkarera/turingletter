@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    line-height: 154%;
+    background-color: white;
+    text-align: center;
+    font-family: system-ui, sans-serif;
+}
+#head{
+    height: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10.667px;
+    line-height: 11.9467px;
+    letter-spacing: 0px;
+    width: 309px;
+    color: rgb(0, 0, 0);
+    
+}
+#intro{
+    height: 50px;
+    font-size: 30px;
+    font-weight: lighter;
+    margin-left: 275px;
+    
+    letter-spacing: 3px;
+}
+#title{
+    height: 50px;
+    font-size: 30px;
+    margin-left: 90px;
+    font-weight: bolder;
+    
+}
+#names{
+    margin-bottom: 50px;
+    margin-left: 125px;
+    font-size: 25px;
+    font-style: italic;
+    text-align: 100px 50px;
+}
